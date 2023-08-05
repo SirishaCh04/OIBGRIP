@@ -3,7 +3,7 @@ button {
     background-color: black;
     height: 50px;
     width: 100px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif, verdana;
     margin-left: 20px;
     margin-top: 50px;
     margin-bottom:20px;
@@ -18,7 +18,7 @@ input{
     margin-right:0px;
 }
 label{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif, verdana;
     font-weight: 200;
     margin-bottom: 90px;
     margin-left:0px;
@@ -30,7 +30,7 @@ pre{
     display: inline-block;
 }
 body{
-    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fbackground&psig=AOvVaw1T21zdb0T07mDDPfLjYiG1&ust=1691215371070000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDl5LCqwoADFQAAAAAdAAAAABAD');
+    background-image: url('https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000');
 }
   
   #box {
@@ -39,7 +39,7 @@ body{
     top: 150px;
     width: 700px;
     height: auto;
-   background-color:white;
+   background-color:chocolate;
    margin-right: 50px;
    margin-left: 375px;
    border-radius: 10px;
