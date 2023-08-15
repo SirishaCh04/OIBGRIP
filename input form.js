@@ -62,4 +62,3 @@ function Hide(){
   var y = document.getElementById("cl").style.display="none";
   window.print();
 }
-
